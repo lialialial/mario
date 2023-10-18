@@ -4,7 +4,7 @@
 [ext_resource path="res://Assets Mario/sounds/01. Ground Theme.mp3" type="AudioStream" id=2]
 [ext_resource path="res://Bloco.tscn" type="PackedScene" id=3]
 [ext_resource path="res://Player.tscn" type="PackedScene" id=4]
-[ext_resource path="res://Assets Mario/AtlasTexture/Portal.tscn" type="PackedScene" id=5]
+[ext_resource path="res://Portal.tscn" type="PackedScene" id=5]
 [ext_resource path="res://Inimigo.tscn" type="PackedScene" id=6]
 [ext_resource path="res://Cenas/Moeda.tscn" type="PackedScene" id=7]
 [ext_resource path="res://Cenas/Level.gd" type="Script" id=8]
@@ -709,7 +709,7 @@ position = Vector2( 75, 325 )
 position = Vector2( 614, 434 )
 
 [node name="Portal" parent="." instance=ExtResource( 5 )]
-position = Vector2( 1325, 216 )
+position = Vector2( 1123, 354 )
 
 [node name="Bloco9" parent="." instance=ExtResource( 3 )]
 position = Vector2( 900, 269 )

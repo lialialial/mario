@@ -4,7 +4,7 @@
 [ext_resource path="res://Assets Mario/sounds/01. Ground Theme.mp3" type="AudioStream" id=2]
 [ext_resource path="res://Bloco.tscn" type="PackedScene" id=3]
 [ext_resource path="res://Player.tscn" type="PackedScene" id=4]
-[ext_resource path="res://Assets Mario/AtlasTexture/Portal.tscn" type="PackedScene" id=5]
+[ext_resource path="res://Portal.tscn" type="PackedScene" id=5]
 [ext_resource path="res://Inimigo.tscn" type="PackedScene" id=6]
 [ext_resource path="res://Cenas/Moeda.tscn" type="PackedScene" id=7]
 [ext_resource path="res://Cenas/Level2.gd" type="Script" id=8]
